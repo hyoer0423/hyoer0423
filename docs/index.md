@@ -1,36 +1,21 @@
-## Welcome to GitHub Pages
+## Hyoer's Blog
 
-You can use the [editor on GitHub](https://github.com/hyoer0423/hyoer0423/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Project description
+Code Coverage Inference Using a Neural Network Model 2021.06 - Present
+• Test code generation: successfully generated the regression and error-revealing test code using Randoop.
+• Do the preprocess to the input and use Abstract Syntax Tree to obtain code embeddings.
+• Train an attention-based Neural Machine Translation model to predict the code coverage.
+• Optimize the model to get the covered code text more efficiently and accurately.
+Out of Distribution Detection in Machine Learning[https://github.com/zzb66666666x/LearnOOD] 2021.09 – Present
+• Based on Out-of-Distribution detector for Neural networks to analyze and summarize different methods for detecting
+out of distribution data in machine learning.
+• Take Early-Layer Output of deep classifiers as input to the one-class support vector machine to detect the OOD. Optimization of Lattice's Thermal Conductivity Based on Genetic Algorithm 2020.05- 2021.05
+• Used Lammps and GPUMD software to perform molecular dynamics simulations.
+• Imported the data into OVITO to observe the results and compared them to judge the disorder.
+• Implemented Machine Learning Genetic Algorithm to perform crossover and mutation to the disordered atomic
+arrangements, and finally selected the optimum thermal conductivity through “natural selection”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hyoer0423/hyoer0423/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
